@@ -1,6 +1,8 @@
 ## 🙋🏾‍♂️About me
 
------
+
+## 🛠TECH & TOOLS
+
 
 🔥 SKILLS
 
