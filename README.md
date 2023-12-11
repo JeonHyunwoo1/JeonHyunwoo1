@@ -1,6 +1,14 @@
-### Hi there 👋
+### 🙋🏾‍♂️About me
+
+-----
+
+🔥 SKILLS
 
 <img alt="SWIFT" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
+
+🔥 TOOLS
+
+<img alt="SWIFT" src ="https://img.shields.io/badge/Xcode-#147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white"/>
 
 <!--
 **JeonHyunwoo1/JeonHyunwoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
